@@ -18,6 +18,14 @@ Its rules: no invented numbers, no invented quotes, no invented credentials. Eve
 
 ### Claude Code
 
+Easiest: paste this straight into Claude Code:
+
+```
+Clone https://github.com/Jonomtla/aov-engine into ~/.claude/skills/aov-engine, then run the AOV Engine on my store: yourstore.com
+```
+
+Or by hand:
+
 ```bash
 git clone https://github.com/Jonomtla/aov-engine ~/.claude/skills/aov-engine
 ```
