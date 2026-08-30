@@ -1,4 +1,4 @@
-# The AOV Engine
+# The Upsell Engine
 
 **A Claude skill that designs your Shopify store's post-purchase upsell funnel from your real data, and writes the pages.**
 
@@ -21,24 +21,24 @@ Its rules: no invented numbers, no invented quotes, no invented credentials. Eve
 Easiest: paste this straight into Claude Code:
 
 ```
-Clone https://github.com/Jonomtla/aov-engine into ~/.claude/skills/aov-engine, then run the AOV Engine on my store: yourstore.com
+Clone https://github.com/Jonomtla/upsell-engine into ~/.claude/skills/upsell-engine, then run the Upsell Engine on my store: yourstore.com
 ```
 
 Or by hand:
 
 ```bash
-git clone https://github.com/Jonomtla/aov-engine ~/.claude/skills/aov-engine
+git clone https://github.com/Jonomtla/upsell-engine ~/.claude/skills/upsell-engine
 ```
 
-Then start a session and type `/aov-engine`. If your Claude Code has a Shopify integration connected, or you're willing to create a read-only API token, the Engine pulls your store numbers itself.
+Then start a session and type `/upsell-engine`. If your Claude Code has a Shopify integration connected, or you're willing to create a read-only API token, the Engine pulls your store numbers itself.
 
 ### claude.ai with Skills enabled
 
-Download this repo as a zip (green Code button), then Settings, Capabilities, Skills, upload. Start a chat: "Run the AOV Engine on my store".
+Download this repo as a zip (green Code button), then Settings, Capabilities, Skills, upload. Start a chat: "Run the Upsell Engine on my store".
 
 ### Any chat assistant, zero setup
 
-No skills support, or on ChatGPT? Grab the single-file version from the [playbook page](https://assets.impactconversion.com/free-money-playbook/): attach it to a new chat and say "Read this file and run the AOV Engine on my store."
+No skills support, or on ChatGPT? Grab the single-file version from the [playbook page](https://assets.impactconversion.com/free-money-playbook/): attach it to a new chat and say "Read this file and run the Upsell Engine on my store."
 
 ## What to have ready
 
