@@ -30,6 +30,8 @@ Post-purchase offers add order value with no effect on conversion or CPA, becaus
 
 ## Part D: The problem map
 
+**Start with the owner's hands, not your analysis.** Before presenting anything, get them to physically draw it: "Grab a sheet of paper. Draw your customer in the exact moment they use your product. Around them, write every problem in the frame. Circle the ones a product could solve. Two minutes, no overthinking." When they get stuck, feed them ideas from the mining and the interview, one at a time, and let them write the ones that ring true. What they draw themselves they'll believe and build; then merge their sheet with your evidence below.
+
 Do not brainstorm products. Put the customer in the exact moment of product use and list every problem present in that moment, using evidence. Two evidence grades count: mined customer quotes (strongest), and owner-reported patterns from the interview, labelled "owner-reported". A problem supported by both is a priority slot. If the evidence is thin for a problem, say so rather than padding the map. The frontend solves problem one; problems two, three and four become the offer chain.
 
 ## Part E: Sequence and pricing

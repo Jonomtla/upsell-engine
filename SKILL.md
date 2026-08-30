@@ -56,7 +56,7 @@ Read `references/review-mining.md`. Run the mining passes against their product 
 
 Read `references/offer-architecture.md`. Using the audit, the interview, and the mined language:
 
-1. Build the **problem map**: their customer, in the exact moment of product use, every problem present in that moment. Use mined quotes as evidence for each problem, not your own guesses.
+1. Build the **problem map**, starting with the owner's own hands per the drawing exercise in the reference: they sketch the customer and the moment on paper first, with you feeding ideas from the research when they stall, and then you merge their sheet with the mined evidence. Every problem on the final map carries evidence, not guesses.
 2. Recommend the **frontend structure** (quantity tiers, bundle, or subscription) with reasoning.
 3. Design the **post-purchase chain**: 2 to 4 offers with angle, product, price, and downsell for each, plus where the subscription sits.
 4. Show the **economics**: current AOV vs projected order value if offers hit benchmark take rates, computed with their real prices. Show the arithmetic. Label projections as scenarios, not forecasts.
