@@ -66,7 +66,9 @@ Present this as a decision document. Get their sign-off on the chain before writ
 
 ## Phase 5: Build the pages
 
-Read `references/page-templates.md` and `references/copy-rules.md`. For each approved offer, write the complete upsell page copy, section by section per the correct template, using mined customer language wherever it fits. Include the downsell pages. Finish with an implementation checklist: app choice, build order, the two always-rules, and the leave-it-alone-until-800-orders rule.
+Read `references/page-templates.md` and `references/copy-rules.md`. For each approved offer, write the complete upsell page copy, section by section per the correct template, using mined customer language wherever it fits. Include the downsell pages.
+
+Then read `references/build-guide.md` and deliver the build plan: app choice by fit, the chain fitted to that app's slots (trims shown), block-by-block assembly lists for every page, trigger settings, and the measurement plan with the leave-it-alone rule. The engagement isn't done until the owner could build this afternoon without asking a single follow-up question.
 
 ## Phase 6: The opportunity scan (only when you pulled live store data)
 
