@@ -4,7 +4,9 @@ Impact Conversion Resources. Two skeletons cover nearly every upsell page. Which
 
 ## Choosing the format weight
 
-From the frontend price (see offer-architecture Part G): under $50 the page is one section only (offer, discount, scarcity, urgency, no letter). $50 to $150 gets the full text template below. Over $150, write the template as a video script the owner can record, plus a short on-page fallback.
+From the frontend price (see the Offer Architecture section, Part G): under $50 the page is one section only (offer, discount, scarcity, urgency, no letter). $50 to $150 gets the full text template below. Over $150, write the template as a 2-4 minute video script the owner can record (founder to camera, captions on, offer visible under the player), plus a short on-page fallback.
+
+Platform reality: Shopify's native post-purchase page is composed from managed blocks with no custom HTML or CSS, and no app can route around that. Write the copy to the templates below, then note in the implementation checklist that it gets built from heading, text, image and video blocks. For video-tier offers, recommend an app with an inline video block; some open video in a new tab, which defeats the purpose. Never recommend replacing Shopify checkout with an external funnel platform to get a fancier page; that breaches Shopify's API terms without written permission.
 
 ## Template A: more of the same
 

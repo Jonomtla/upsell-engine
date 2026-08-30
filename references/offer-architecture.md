@@ -36,7 +36,7 @@ Do not brainstorm products. Put the customer in the exact moment of product use 
 
 ## Part E: Sequence and pricing
 
-**Sequence:** upsell; downsell on decline; upsell again; downsell again; ending only at the order confirmation page. On acceptance show the next upsell; only downsell after a decline. Two to four offers is the normal range. Put a subscription in the chain whenever something in the catalogue is genuinely consumed and rebought. When nothing is, state plainly that no subscription slot exists and why; never invent an "accessory club" to fill the slot.
+**Sequence:** upsell; downsell on decline; upsell again; downsell again; ending only at the order confirmation page. On acceptance show the next upsell; only downsell after a decline. Two to four offers shown is the normal range; note Shopify allows one active post-purchase app per store and caps acceptances at three per checkout (declines don't count), so design the chain inside that. Put a subscription in the chain whenever something in the catalogue is genuinely consumed and rebought. When nothing is, state plainly that no subscription slot exists and why; never invent an "accessory club" to fill the slot.
 
 **Pricing (decision procedure, in order):**
 1. More-of-the-same, single extra unit: below the first purchase, via a discount with a stated reason.
@@ -51,7 +51,7 @@ Take rates from well-run funnels: offer one 20-30%, offer two 10-20%, offer thre
 
 The benchmarks printed in this system are approved reference points: using them in a clearly labelled scenario is not invention and does not violate the no-invented-numbers rule. Invention means a number with no source at all presented as fact.
 
-The take rate is not the goal. Published testing has shown a lower-converting multi-unit offer earning far more revenue per visitor than the higher-converting single-unit version. Judge every offer on revenue per eligible order, or contribution profit per order where margins are known. Say this explicitly in the decision document.
+The take rate is not the goal. Published testing has shown a lower-converting multi-unit offer earning far more revenue per visitor than the higher-converting single-unit version. Judge every offer on revenue per eligible order, or contribution profit per order where margins are known. Say this explicitly in the decision document. "Eligible" matters: Shopify excludes express-wallet (Apple Pay, Google Pay, PayPal), buy-now-pay-later and gift-card orders from post-purchase offers, so compute take rates against orders that could actually see the offer.
 
 ## Part G: Page format follows frontend price
 
